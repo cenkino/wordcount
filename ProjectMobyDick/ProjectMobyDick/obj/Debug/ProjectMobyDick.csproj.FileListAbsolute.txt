@@ -1,0 +1,7 @@
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\bin\Debug\ProjectMobyDick.exe.config
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\bin\Debug\ProjectMobyDick.exe
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\bin\Debug\ProjectMobyDick.pdb
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\obj\Debug\ProjectMobyDick.csprojResolveAssemblyReference.cache
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\obj\Debug\ProjectMobyDick.csproj.CoreCompileInputs.cache
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\obj\Debug\ProjectMobyDick.exe
+C:\Users\Cenk\source\repos\ProjectMobyDick\ProjectMobyDick\obj\Debug\ProjectMobyDick.pdb
